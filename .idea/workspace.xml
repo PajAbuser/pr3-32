@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr3-32.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t1_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t2_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t2_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t2_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t2_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t2_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/EShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t3_3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/t3_3/Report.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FrsowMxFSnfh6nXPt45f7qU7Hz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java/Prognajava/pr3-32&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="" />
+      <created>1665261716178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665261716178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
