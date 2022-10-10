@@ -5,7 +5,7 @@ import java.util.*;
 public class Tester {
     private static ArrayList<Circle> circles = new ArrayList<>();
 
-    public Circle getSmallestCircle() {
+    public static Circle getSmallestCircle() {
         Circle circle = new Circle(new Point(0.0, 0.0), -2 ^ Double.SIZE);
         for (int i = 0; i < circles.size(); i++) {
             double curCircleR = circles.get(i).getR();
@@ -14,7 +14,7 @@ public class Tester {
         return circle;
     }
 
-    public Circle getLargestCircle() {
+    public static Circle getLargestCircle() {
         Circle circle = new Circle(new Point(0.0, 0.0), -2 ^ Double.SIZE);
         for (int i = 0; i < circles.size(); i++) {
             double curCircleR = circles.get(i).getR();
@@ -61,6 +61,9 @@ public class Tester {
             for (int n = 0; n < circles.size(); n++) {
                 System.out.println(circles.get(n));
             }
+            System.out.println();
+            System.out.println(getLargestCircle());
+            System.out.println(getSmallestCircle());
         }
     }
 }
