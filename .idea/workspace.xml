@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="">
+    <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="zxc">
+      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/t1_2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/t1_2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/t1_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/t1_3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +44,15 @@
     "last_opened_file_path": "C:/Users/ummegolsum/Documents/mirea/Java/pr3-32",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p4.t1_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665261716178</updated>
     </task>
+    <task id="LOCAL-00001" summary="zxc">
+      <created>1665418183965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665418183965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,6 +82,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zxc" />
+    <option name="LAST_COMMIT_MESSAGE" value="zxc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
