@@ -1,10 +1,21 @@
-package p4.t1_1;
+package p4_1.t1_1;
 
 public class Circle extends Shape{
-    public Circle(double r) {
-        R = r;
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "name='" + name + '\'' +
+                ", R=" + R +
+                ", x=" + x +
+                ", y=" + y +
+                '}';
     }
 
+    public Circle(double r) {
+        super(Double.toString(r));
+        R = r;
+    }
+    private String name;
     private double R;
     private double x,y;
     @Override
