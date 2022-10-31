@@ -1,10 +1,10 @@
-package p4.t1_1;
+package p4_1.t1_1;
 
 public class Tester {
     public static void main(String[] args) {
-        Circle circle = new Shape(10);
-        Rectangle rectangle = new Shape(3,4,5);
-        Square square = new Shape(10,20);
+        Circle circle = new Circle(10);
+        Rectangle rectangle = new Rectangle(3,4,5);
+        Square square = new Square(10,20);
         System.out.println(
             circle.getArea() + " " +
             circle.getPerimeter() + " " +
