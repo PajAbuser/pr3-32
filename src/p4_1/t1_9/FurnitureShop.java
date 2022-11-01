@@ -20,5 +20,6 @@ public class FurnitureShop {
         for(Furniture ex : furnitures){
             System.out.println(ex.toString());
         }
+        //В отчет копировать код магазина из другой практики
     }
 }

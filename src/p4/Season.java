@@ -2,12 +2,12 @@ package p4;
 
 public enum Season {
 
-    SUMMER (1),
-    AUTUMN (2),
-    WINTER (3),
-    SPRING (4);
+    SUMMER (0),
+    AUTUMN (1),
+    WINTER (2),
+    SPRING (3);
 
-    double[] avgTemps = new double[]{1, 2, 3, 4};
+    final double[] avgTemps = new double[]{1, 2, 3, 4};
     double avgTemp;
 
     private int SeasonSelector;
@@ -28,9 +28,13 @@ public enum Season {
         this.SeasonSelector = SeasonSelector;
         this.avgTemps[SeasonSelector] = avgTemp;
     }
+    public double getAvgTemp(int i){
+        return avgTemps[i];
+    }
+
 
     public String getDescription(){
-        if(this.SeasonSelector != 1) {
+        if(this.SeasonSelector != 0) {
             return "Cold season of year";
         }
         else return "Warm season of year";

@@ -2,92 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="zxc">
-      <change afterPath="$PROJECT_DIR$/src/p4/ClothSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t1_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t1_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t1_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/Atelier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/MenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/TShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t2/WomenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t3/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t3/Catalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t3/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t3/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t3/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t4/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t4/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4/t4/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_4/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_5/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_7/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_7/Shoolboy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_9/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_9/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_9/FurnitureShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_9/Sofa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_9/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p5/t1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_1/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_1/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_1/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_2/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_2/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_2/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_3/Nameable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_4/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_5/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_5/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_5/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_6to9/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_6to9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_6to9/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_6to9/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/t4/ModelName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/ModelName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_11/Celsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_11/Fahrenheit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/t1_1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/t1_1/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/t1_1/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/t1_1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/t1_1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t1_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t1_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t3/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t3/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t4/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t4/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t4/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t4/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t4/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/t4/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/t4/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_6/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Employer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_6/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_6/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_8/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4_1/t1_9/FurnitureShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4_1/t1_9/FurnitureShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/t1_10/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/t1_10/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/t1_10/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/t1_10/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/t1_10/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/t1_10/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/t1_10/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/t1_10/Processor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -122,7 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/Java/Prognajava/pr3-32/src/p4/t4",
+    "last_opened_file_path": "C:/Users/ummegolsum/Documents/mirea/Java/pr3-32/src/p6",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -131,11 +73,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ummegolsum\Documents\mirea\Java\pr3-32\src\p6" />
+      <recent name="C:\Users\ummegolsum\Documents\mirea\Java\pr3-32\src\p6\t1_10" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t4" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t2_4" />
-      <recent name="D:\Projects\Java\Prognajava\pr3-32\src" />
-      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="p4.t1_1" />
@@ -186,6 +128,11 @@
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p4_1/t1_3/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

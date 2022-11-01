@@ -7,11 +7,15 @@ public class Main {
 
         Employer employer = new Employer("zxc","qwe",123);
         ArrayList<Employer> employers = new ArrayList<>();
-
-        employers.add(new Manager(new Employer("zxc123","qwe321",3227)));
+        Manager m = new Manager(employer);
+        //System.out.println(m.employer.getFirstName());
+        employers.add(new Manager(new Employer("zxc123","qwe321",3228)));
+        employers.add(new Manager(employer));
         employers.add(new Employer("123zxc123","321qwe321",8228));
+
         for(Employer employerr : employers){
-            System.out.println(employerr.getFirstName() + " " + employerr.getLastName() + " " + employerr.getIncome());
+            System.out.println(employerr);
         }
+
     }
 }

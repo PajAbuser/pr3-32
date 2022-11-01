@@ -12,7 +12,7 @@ public class Main {
 
             curSeason = Season.values()[i];
             curSeason.setSeasonSelector(i);
-            System.out.println(curSeason + " " + curSeason.getDescription());
+            System.out.println(curSeason + " avg temp = " + curSeason.getAvgTemp(i) + " " + curSeason.getDescription());
 
         }
 

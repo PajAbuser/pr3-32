@@ -11,7 +11,7 @@ public class Main {
         vehicles.add(new Plane(900, 4000));
         double dist = 1000;
         for (Vehicle veh : vehicles) {
-            System.out.println(String.format("%1$7.2f",veh.time(dist)) + "h, " + String.format("%1$10.2f",veh.cost(dist)) + " RUR");
+            System.out.println(veh.getClass()+ " " + String.format("%1$7.2f",veh.time(dist)) + "h, " + String.format("%1$10.2f",veh.cost(dist)) + " RUR");
         }
     }
 }

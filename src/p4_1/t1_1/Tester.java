@@ -2,9 +2,10 @@ package p4_1.t1_1;
 
 public class Tester {
     public static void main(String[] args) {
-        Circle circle = new Circle(10);
-        Rectangle rectangle = new Rectangle(3,4,5);
-        Square square = new Square(10,20);
+
+        Shape circle = new Circle(10);
+        Shape rectangle = new Rectangle(3,4,5);
+        Shape square = new Square(10,20);
         System.out.println(
             circle.getArea() + " " +
             circle.getPerimeter() + " " +
