@@ -2,7 +2,7 @@ package p6.t1_11;
 
 import java.util.Scanner;
 
-public class Main implements Convertable{
+public class Main /*implements Convertable*/{
 
     boolean incelsius = false;
     double temp;
@@ -31,10 +31,10 @@ public class Main implements Convertable{
         new Scanner(System.in).nextDouble();
 
 
-        if(select1 == 1) setIncelsius(true);
+        /*if(select1 == 1) setIncelsius(true);
 
         int select
-        System.out.println("\nEnter");
+        System.out.println("\nEnter");*/
 
     }
 
