@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="zxc">
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_13/StringBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_13/Subscribable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_13/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p6/t1_13/Subscribers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p5/t2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p5/t2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_12/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_12/OperationTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_12/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/t1_12/Undo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t4/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t4/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t4/MathCalculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t4/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t5to6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t5to6/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t5to6/StringHandable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t7/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p7/t7/Printable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p6/t1_11/Celsius.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p6/t1_11/Convertable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p6/t1_11/Fahrenheit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p6/t1_11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5/t1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p5/t1/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p6/t1_12/StringBuilder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/t1_12/StringBuilder2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p8/t1_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +55,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ummegolsum/Documents/mirea/Java/pr3-32/src/p6",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ummegolsum/Documents/mirea/Java/pr3-32/src/p6&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ummegolsum\Documents\mirea\Java\pr3-32\src\p6" />
@@ -65,6 +74,9 @@
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t4" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t2_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p5\t1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="p4.t1_1" />
@@ -93,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667288940390</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="zxc">
+      <created>1670686130486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670686130486</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
