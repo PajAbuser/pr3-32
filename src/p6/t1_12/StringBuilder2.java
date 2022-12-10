@@ -13,12 +13,10 @@ public class StringBuilder2 {
 
     //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   /* public
-
     public int compareTo(StringBuilder another) {
         return builder.compareTo(another);
     }
-*/
+
     public StringBuilder append(Object obj) {
         return builder.append(obj);
     }

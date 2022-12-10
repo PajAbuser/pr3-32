@@ -1,9 +1,10 @@
-package p8.t1_1;
+package p8;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-
+static ArrayList<Integer> nums = new ArrayList<>();
     static String rec1(int k, int n) {
         String rets = "";
         while(n<=k) {
@@ -25,19 +26,24 @@ public class Main {
     }
     static int rec4(int b, int k, int s) {
         int raz = (int) Math.pow(10,k) - 1;
-        if (s > 9*k || s < 1) return 0;
+        if (s > 9*k || s < 1 || b > 3) return 0;
         if (b <= raz) {
             int sum = 0;
             String str = Integer.toString(b);
             for (int i = 0; i < k; i++){
                 sum += str.charAt(i) - '0';
             }
-            if(sum == s) return 1 + rec4(b+1,k,s);
+            if(sum == s) {
+                nums.add(Integer.parseInt(str));
+                return 1 + rec4(b+1,k,s);
+            }
             return rec4(b+1,k,s);
         }
-        else return 0;
+        else {
+            System.out.println(nums);
+            return 0;
+        }
     }
-
     static int rec5(int N, int iter){
         int raz = (int) Math.pow(10,iter);
         if(raz > N) return 0;
