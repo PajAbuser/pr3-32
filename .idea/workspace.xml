@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="zxc">
-      <change afterPath="$PROJECT_DIR$/src/p9/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t3/Sorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t4/MyComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t4/MyComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t4/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p9/t4/Worm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p9/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p9/t2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ummegolsum/Documents/mirea/Java/pr3-32/src/p6&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Projects/Java/Prognajava/pr3-32/src/p10",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p10" />
       <recent name="C:\Users\ummegolsum\Documents\mirea\Java\pr3-32\src\p6" />
       <recent name="C:\Users\ummegolsum\Documents\mirea\Java\pr3-32\src\p6\t1_10" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t4" />
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4" />
-      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4\t2_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p5\t1" />
@@ -108,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670696401013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="zxc">
+      <created>1670773402162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670773402162</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
