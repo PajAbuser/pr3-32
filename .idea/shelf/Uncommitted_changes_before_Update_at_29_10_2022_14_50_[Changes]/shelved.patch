@@ -1,0 +1,169 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,30 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pr3-32.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_1/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Circle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Point.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_2/Tester.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_3/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t1_4/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t2_1/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t2_2/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t2_3/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t2_4/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t2_5/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/Converter.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/Currency.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t3_2/EShop.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t3_3/Employee.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/p3/t3_3/Report.java" afterDir="false" />
++    <list default="true" id="890e147a-66a2-48ae-9df8-39b2cc23513a" name="Changes" comment="zxc">
++      <change afterPath="$PROJECT_DIR$/src/p4_1/t1_1/Main.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/p5/t1/Application.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -61,6 +41,13 @@
+     &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java/Prognajava/pr3-32&quot;
+   }
+ }</component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p5" />
++      <recent name="D:\Projects\Java\Prognajava\pr3-32\src\p4" />
++      <recent name="D:\Projects\Java\Prognajava\pr3-32\src" />
++    </key>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -70,6 +57,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1665261716178</updated>
+     </task>
++    <task id="LOCAL-00001" summary="zxc">
++      <created>1665325593919</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1665325593919</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -82,6 +77,10 @@
+         </entry>
+       </map>
+     </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="zxc" />
++    <option name="LAST_COMMIT_MESSAGE" value="zxc" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -89,6 +88,10 @@
+         <breakpoint enabled="true" type="java-exception">
+           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+           <option name="timeStamp" value="1" />
++        </breakpoint>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
++          <option name="timeStamp" value="2" />
+         </breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+Index: src/p5/t1/Application.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/p5/t1/Application.java b/src/p5/t1/Application.java
+new file mode 100644
+--- /dev/null	
++++ b/src/p5/t1/Application.java	
+@@ -0,0 +1,27 @@
++package p5.t1;
++
++import javax.swing.*;
++import java.awt.*;
++
++public class Application {
++    public static void main(String[] args) {
++        JFrame frame = new JFrame("Heleuv uyorlt");
++        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
++        frame.setSize(1000,1000);
++        JPanel panel = new JPanel();
++        panel.setBackground(Color.GRAY);
++        panel.setPreferredSize( new Dimension(200,300));
++        JButton button1 = new JButton("AC Milan");
++        //button1.setHorizontalTextPosition(100); button1.setVerticalTextPosition(100);
++        JButton button2 = new JButton("Real Madrid");
++        //button2.setHorizontalTextPosition(500); button2.setVerticalTextPosition(500);
++        panel.add(button1,button2);
++        String lastScorer = "";
++        JLabel label = new JLabel("Last Scorer: " + lastScorer, JLabel.CENTER);
++        //label.setHorizontalTextPosition(500); label.setVerticalTextPosition(500);
++        panel.add(label);
++        frame.getContentPane().add(panel);
++        frame.pack();
++        frame.setVisible(true);
++    }
++}
+Index: src/p4_1/t1_1/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/p4_1/t1_1/Main.java b/src/p4_1/t1_1/Main.java
+new file mode 100644
+--- /dev/null	
++++ b/src/p4_1/t1_1/Main.java	
+@@ -0,0 +1,28 @@
++package p4_1.t1_1;
++
++import java.util.Scanner;
++
++public class Main{
++    public static void main(String[] args) {
++        while (true) {
++            System.out.print("\nEnter desired thickness of Math.sinusoid [0(slim) - 64(thicc)]: ");
++            long thickness = new Scanner(System.in).nextInt();
++            if (thickness < 0) { System.out.print("\nEnter positive thickness\n"); }
++            else {
++                System.out.print("\n");
++                char[] gradient = "`^,:;Il!i~+_-?][}{1)(tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$".toCharArray();
++                for (double y = 1 + (double)(thickness + 1) / 100; y >= -1 - (double)(thickness + 1) / 100; y -= Math.PI / 100) {
++                    for (double x = -Math.PI * Math.PI; x <= Math.PI * Math.PI; x += Math.PI / 100) {
++                        double fx = Math.round(1000 * Math.sin(x));
++                        if (Math.abs(fx / (1000 - (y))) < (double)(thickness + 1) / 100) {
++                            int ind = (int) (Math.floor(Math.abs(fx / (1000 - (y))) * 100));
++                            System.out.print(gradient[Math.abs(60 - ind)]);
++                        }
++                        else System.out.print(" ");
++                    }
++                    System.out.print("\n");
++                }
++            }
++        }
++    }
++}
